@@ -4,3 +4,6 @@
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
 }
+body{
+    background-color: #f0f0f0;
+}
